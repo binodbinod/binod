@@ -1,0 +1,9 @@
+Package: binod
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: srujan.deshpande@gmail.com
+Description: Print BINOD on the screen
